@@ -1,12 +1,14 @@
 # Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach
 
 # Paper
- Our paper can be download from the [arxiv website](https://arxiv.org/pdf/1812.07421.pdf)  
- Please cite this publication when 
+ Our paper can be download from the [arxiv website](https://arxiv.org/pdf/1812.07421.pdf)
 ## Recruitments
-
-tensorflow/tensorflow-gpu, numpy, scipy, scikit-learn, matplotlib, imblearn. 
-
+*tensorflow/tensorflow-gpu
+*numpy
+*scipy
+*scikit-learn
+*matplotlib
+*imblearn
 
 ## Dataset
 [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
@@ -26,6 +28,17 @@ python seq_seq_annot_aami.py
 python seq_seq_annot_DS1DS2.py
 ```
 
+## Citation
+If you find it useful, please cite our paper as follows:
+
+```
+@article{mousavi2018inter,
+  title={Inter-and intra-patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach},
+  author={Mousavi, Sajad and Afghah, Fatemeh},
+  journal={arXiv preprint arXiv:1812.07421},
+  year={2018}
+}
+```
 
 ## References
  [deepschool.io](https://github.com/sachinruk/deepschool.io/blob/master/DL-Keras_Tensorflow)
