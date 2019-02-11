@@ -31,7 +31,8 @@ python seq_seq_annot_aami.py --data_dir data/s2s_mitbih_aami --epochs 500
 ```
 python seq_seq_annot_DS1DS2.py --data_dir data/s2s_mitbih_aami_DS1DS2 --epochs 500
 ```
-
+## Results
+  ![Alt text](/images/results.jpg)
 ## Citation
 If you find it useful, please cite our paper as follows:
 
