@@ -9,8 +9,8 @@ tensorflow/tensorflow-gpu, numpy, scipy, scikit-learn, matplotlib, imblearn.
 
 
 ## Dataset
-the PhysioNet MIT-BIH Arrhythmia database (https://www.physionet.org/physiobank/database/mitdb/)
-* To download the pre-processed datasets use [this link] (), then put them into the "data folder".
+[the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
+* To download the pre-processed datasets use [this link](), then put them into the "data folder".
 
 ## Train
 
@@ -28,5 +28,5 @@ python seq_seq_annot_DS1DS2.py
 
 
 ## References
- [deepschool.io] (https://github.com/sachinruk/deepschool.io/blob/master/DL-Keras_Tensorflow)
+ [deepschool.io](https://github.com/sachinruk/deepschool.io/blob/master/DL-Keras_Tensorflow)
 
