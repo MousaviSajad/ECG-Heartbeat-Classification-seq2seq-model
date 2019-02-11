@@ -10,12 +10,12 @@ tensorflow/tensorflow-gpu, numpy, scipy, scikit-learn, matplotlib, imblearn.
 
 ## Dataset
 [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
-* To download the pre-processed datasets use [this link](), then put them into the "data folder".
+* To download the pre-processed datasets use [this link](https://drive.google.com/drive/folders/1TGg1413qa5TkcC0zF6CUDhKWlNzJgPCJ?usp=sharing), then put them into the "data folder".
 
 ## Train
 
-* Modify args settings in seq_seq_annot_aami.py for the intra- patient ECG heartbeat classification
-* Modify args settings in seq_seq_annot_DS1DS2.py for the inter- patient ECG heartbeat classification
+* Modify args settings in seq_seq_annot_aami.py for the intra-patient ECG heartbeat classification
+* Modify args settings in seq_seq_annot_DS1DS2.py for the inter-patient ECG heartbeat classification
 
 * Run each file to reproduce the model described in the paper, use:
 
