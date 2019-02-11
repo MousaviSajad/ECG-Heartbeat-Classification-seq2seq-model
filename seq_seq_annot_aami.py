@@ -1,4 +1,3 @@
-# https://github.com/sachinruk/deepschool.io/blob/master/DL-Keras_Tensorflow/Lesson%2019%20-%20Seq2Seq%20-%20Date%20translator%20-%20Solutions.ipynb
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.io as spio
