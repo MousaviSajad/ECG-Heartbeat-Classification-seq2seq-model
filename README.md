@@ -6,7 +6,7 @@
   ![Alt text](/images/seq2seq_b.jpg)
  
 ## Recruitments
-
+* Python 2.7
 * tensorflow/tensorflow-gpu
 * numpy
 * scipy
@@ -15,7 +15,7 @@
 * imblearn
 
 ## Dataset
-[the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
+We evaluated our model using [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
 * To download our pre-processed datasets use [this link](https://drive.google.com/drive/folders/1TGg1413qa5TkcC0zF6CUDhKWlNzJgPCJ?usp=sharing), then put them into the "data folder".
 
 ## Train
