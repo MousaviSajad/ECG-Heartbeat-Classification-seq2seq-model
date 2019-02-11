@@ -2,17 +2,21 @@
 
 # Paper
  Our paper can be download from the [arxiv website](https://arxiv.org/pdf/1812.07421.pdf)
+ * The Network architecture
+  ![Alt text](/images/seq2seq_b.jpg)
+ 
 ## Recruitments
-*tensorflow/tensorflow-gpu
-*numpy
-*scipy
-*scikit-learn
-*matplotlib
-*imblearn
+
+* tensorflow/tensorflow-gpu
+* numpy
+* scipy
+* scikit-learn
+* matplotlib
+* imblearn
 
 ## Dataset
 [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
-* To download the pre-processed datasets use [this link](https://drive.google.com/drive/folders/1TGg1413qa5TkcC0zF6CUDhKWlNzJgPCJ?usp=sharing), then put them into the "data folder".
+* To download our pre-processed datasets use [this link](https://drive.google.com/drive/folders/1TGg1413qa5TkcC0zF6CUDhKWlNzJgPCJ?usp=sharing), then put them into the "data folder".
 
 ## Train
 
@@ -22,10 +26,10 @@
 * Run each file to reproduce the model described in the paper, use:
 
 ```
-python seq_seq_annot_aami.py
+python seq_seq_annot_aami.py --data_dir data/s2s_mitbih_aami --epochs 500
 ```
 ```
-python seq_seq_annot_DS1DS2.py
+python seq_seq_annot_DS1DS2.py --data_dir data/s2s_mitbih_aami_DS1DS2 --epochs 500
 ```
 
 ## Citation
