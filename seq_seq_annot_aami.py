@@ -284,7 +284,7 @@ def run_program(args):
         optimizer = tf.train.RMSPropOptimizer(1e-3).minimize(loss)
 
 
-    # train the graph
+    # split the dataset into the training and test sets
     X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
 
     # over-sampling: SMOTE
@@ -366,7 +366,7 @@ def run_program(args):
 
     if (os.path.exists(checkpoint_dir) == False):
         os.mkdir(checkpoint_dir)
-
+    # train the graph
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
         sess.run(tf.local_variables_initializer())
