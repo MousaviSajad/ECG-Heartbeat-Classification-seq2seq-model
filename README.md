@@ -46,5 +46,9 @@ If you find it useful, please cite our paper as follows:
 ```
 
 ## References
+ [github:akaraspt](https://github.com/akaraspt/deepsleepnet)
  [deepschool.io](https://github.com/sachinruk/deepschool.io/blob/master/DL-Keras_Tensorflow)
+ 
+## Licence 
+For academtic and non-commercial usage 
 
