@@ -1,7 +1,7 @@
 # Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach
 
 # Paper
- Our paper can be downloaded from the [arxiv website](https://arxiv.org/pdf/1812.07421)
+ Our paper can be downloaded from the [arxiv website](https://arxiv.org/pdf/1812.07421v2)
  * The Network architecture
   ![Alt text](/images/seq2seq_b.jpg)
  
