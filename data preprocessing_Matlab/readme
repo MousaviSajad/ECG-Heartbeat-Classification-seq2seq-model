@@ -1,9 +1,9 @@
 1. Install WFDB Toolbox for MATLAB from https://physionet.org/physiotools/matlab/wfdb-app-matlab/
-2. Run download_MITBIHDB.m to download MITBIH database
-  -- In the code, you need to change the local paths to the downloaded database and the WFDB Toolbox
+2. Run download_MITBIHDB.m to download the MIT-BIH database
+  -- In the code, you need to determine the local path to save the database and the path for the installed WFDB Toolbox
 For example:
   -- path_to_exes = 'path_to_WFDB_Toolbox\mcode\nativelibs\windows\bin';
-  -- path_to_save_records = 'path_to_downloaded_database';
+  -- path_to_save_records = 'path_to_save_database';
 
 3. Run seq2seq_mitbih_AAMI.m to prepare data for the intra-patient paradigm
  -- Modify the below line of the code based on your local address to the mitbih database
