@@ -16,8 +16,8 @@
 
 ## Dataset
 We evaluated our model using [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
-* To download our pre-processed datasets use [this link](https://drive.google.com/drive/folders/1TGg1413qa5TkcC0zF6CUDhKWlNzJgPCJ?usp=sharing), then put them into the "data folder".
-* Or you can follow the instructions of the readme file in the "data preprocessing_Matlab" folder to download the MIT-BIH database and perform data pre-processing. Then, put the pre-processed datasets into the "data folder".
+* To download our pre-processed datasets use [this link](https://drive.google.com/drive/folders/1TGg1413qa5TkcC0zF6CUDhKWlNzJgPCJ?usp=sharing), then put them into the "data" folder.
+* Or you can follow the instructions of the readme file in the "data preprocessing_Matlab" folder to download the MIT-BIH database and perform data pre-processing. Then, put the pre-processed datasets into the "data" folder.
 
 ## Train
 
