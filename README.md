@@ -12,7 +12,7 @@
 * scipy
 * scikit-learn
 * matplotlib
-* imblearn
+* imbalanced-learn (0.4.3)
 
 ## Dataset
 We evaluated our model using [the PhysioNet MIT-BIH Arrhythmia database](https://www.physionet.org/physiobank/database/mitdb/)
