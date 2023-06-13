@@ -5,7 +5,7 @@
  * The Network architecture
   ![Alt text](/images/seq2seq_b.jpg)
  
-## Recruitments
+## Requirements
 * Python 2.7
 * tensorflow/tensorflow-gpu
 * numpy
